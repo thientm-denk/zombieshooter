@@ -24,7 +24,7 @@ MINI SHOOTER GAME WITH UNITY
 <div align="center">
   
   <img src="./Picture/Menu.png" alt="Menu" width="100%"></img> &nbsp;&nbsp; 
-  <img src="./Picture/MenuIngame.png" alt="MenuIngame" width="100%"></img> &nbsp;&nbsp; 
+  <img src="./Picture/MenuMain.png" alt="MenuIngame" width="100%"></img> &nbsp;&nbsp; 
   <img src="./Picture/Ingame.png" alt="Ingame" width="100%"></img> &nbsp;&nbsp;
   <img src="./Picture/Dead.png" alt="Dead" width="100%"></img> &nbsp;&nbsp;
   
