@@ -1,29 +1,64 @@
-# README #
+# ZomEndDay #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+MINI SHOOTER GAME WITH UNITY
 
-### What is this repository for? ###
+:wave: My Project at OneChain Game :wave:
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Table of Contents
+- [Description](#description)
+- [Preview Screenshot](#preview-screenshot)
+- [Technology](#technology)
+- [Functional requirements](#functional-requirements)
+- [Contributors](#contributors)
+- [License & Copyright](#license--copyright)
 
-### How do I get set up? ###
+## Description
+- This is a mini shooting game
+- This works well on desktop, and WebGL
+- Available demo at itch.io: https://thientmdenk.itch.io/zomendday
+- Enjoy :heart:
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
+## Preview Screenshot
 
-* Writing tests
-* Code review
-* Other guidelines
+<div align="center">
+  
+  <img src="./Picture/Menu.png" alt="Menu" width="100%"></img> &nbsp;&nbsp; 
+  <img src="./Picture/MenuIngame.png" alt="MenuIngame" width="100%"></img> &nbsp;&nbsp; 
+  <img src="./Picture/Ingame.png" alt="Ingame" width="100%"></img> &nbsp;&nbsp;
+  <img src="./Picture/Dead.png" alt="Dead" width="100%"></img> &nbsp;&nbsp;
+  
+</div>
+  
+## Technology
 
-### Who do I talk to? ###
+- RayCast to Manager Shooting
+- Config
+- UI, Game, Audio Manager
+- Singleton pattern
+- State Machine pattern for control Zombie
+- NavMesh
+- Linerenderer 
+- Highscore storage with PlayerPref
 
-* Repo owner or admin
-* Other community or team contact
+## Functional requirements
+**1. Player:**
+- [X] Menu Interaction
+- [X] Moving
+- [x] Shooting
+- [x] HighScore
+- [x] Weapon
+
+**2. Zombie**
+- [x] Idle state
+- [x] Run toward player state
+- [x] Attack player state
+
+## Useful Resources
+
+
+## Contributors
+- [Tran Minh Thien](https://github.com/Denkhotieu) - SE160413 
+
+## License & Copyright
+&copy; 2022 TranMinhThien.
