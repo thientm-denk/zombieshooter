@@ -15,7 +15,12 @@ MINI SHOOTER GAME WITH UNITY
 ## Description
 - This is a mini shooting game
 - This works well on desktop, and WebGL
-- Available demo at itch.io: https://thientmdenk.itch.io/zomendday
+- Use WASD to move, Click to shoot
+- Number 1 for primary weapon
+- Number 2 for pistol
+- You have 100 health, lose if become 0
+- Try to kill zombie as most at posible (Score base on amount zombie killed)
+- Available demo at itch.io: https://thientmdenk.itch.io/zomendday (Old version may contain some bug)
 - Enjoy :heart:
 
 
