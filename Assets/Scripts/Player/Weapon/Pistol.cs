@@ -63,6 +63,7 @@ public class Pistol : Weapon
                 return;
             }
         }
+         lr.SetPosition(1, ShootPoint.transform.position + ShootPoint.transform.forward * 100f);
     }
     public override void Shoot(Camera PlayerCamera)
     {
