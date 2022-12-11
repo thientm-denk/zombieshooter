@@ -37,11 +37,11 @@ MINI SHOOTER GAME WITH UNITY
   
 ## Technology
 
-- RayCast to Manager Shooting
+- RayCast to Manage Shooting
 - Config
 - UI, Game, Audio Manager
 - Singleton pattern
-- State Machine pattern for control Zombie
+- State Machine pattern to control Zombie
 - NavMesh
 - Linerenderer 
 - Highscore storage with PlayerPref
